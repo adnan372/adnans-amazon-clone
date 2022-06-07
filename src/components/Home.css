@@ -1,0 +1,19 @@
+.banner_img {
+    width: 100%;
+    mask-image: linear-gradient(to bottom , rgba(0,0,0,1) , rgba(0,0,0,0));
+    z-index: -1;
+    margin-bottom: -150px;
+    
+}
+.banner_img2{
+    width: 100%;
+    width: 150vh;
+   
+}
+.home_row{
+    /* display: inline-block; */
+    display: flex;
+    z-index: 1;
+    margin-right: 5px;
+    margin-left: 5px;
+}
